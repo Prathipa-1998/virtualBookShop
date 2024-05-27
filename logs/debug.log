@@ -1,0 +1,42 @@
+2024-05-07 17:49:28 [main] INFO  i.c.g.v.VirtualBookshopApplication - Starting VirtualBookshopApplication using Java 18.0.1.1 with PID 12300 (D:\practice\VirtualBookshop\bin\main started by PIT0504 in D:\practice\VirtualBookshop)
+2024-05-07 17:49:28 [main] DEBUG i.c.g.v.VirtualBookshopApplication - Running with Spring Boot v3.2.4, Spring v6.1.5
+2024-05-07 17:49:28 [main] INFO  i.c.g.v.VirtualBookshopApplication - No active profile set, falling back to 1 default profile: "default"
+2024-05-07 17:52:44 [main] INFO  i.c.g.v.VirtualBookshopApplication - Starting VirtualBookshopApplication using Java 18.0.1.1 with PID 10476 (D:\practice\VirtualBookshop\bin\main started by PIT0504 in D:\practice\VirtualBookshop)
+2024-05-07 17:52:44 [main] DEBUG i.c.g.v.VirtualBookshopApplication - Running with Spring Boot v3.2.4, Spring v6.1.5
+2024-05-07 17:52:44 [main] INFO  i.c.g.v.VirtualBookshopApplication - No active profile set, falling back to 1 default profile: "default"
+2024-05-07 17:54:22 [main] INFO  i.c.g.v.VirtualBookshopApplication - Starting VirtualBookshopApplication using Java 18.0.1.1 with PID 18104 (D:\practice\VirtualBookshop\bin\main started by PIT0504 in D:\practice\VirtualBookshop)
+2024-05-07 17:54:22 [main] DEBUG i.c.g.v.VirtualBookshopApplication - Running with Spring Boot v3.2.4, Spring v6.1.5
+2024-05-07 17:54:22 [main] INFO  i.c.g.v.VirtualBookshopApplication - No active profile set, falling back to 1 default profile: "default"
+2024-05-07 18:08:34 [main] INFO  i.c.g.v.VirtualBookshopApplication - Starting VirtualBookshopApplication using Java 18.0.1.1 with PID 18048 (D:\practice\VirtualBookshop\bin\main started by PIT0504 in D:\practice\VirtualBookshop)
+2024-05-07 18:08:34 [main] DEBUG i.c.g.v.VirtualBookshopApplication - Running with Spring Boot v3.2.4, Spring v6.1.5
+2024-05-07 18:08:34 [main] INFO  i.c.g.v.VirtualBookshopApplication - No active profile set, falling back to 1 default profile: "default"
+2024-05-08 12:53:58 [main] INFO  i.c.g.v.VirtualBookshopApplication - Starting VirtualBookshopApplication using Java 18.0.1.1 with PID 22060 (D:\practice\VirtualBookshop\bin\main started by PIT0504 in D:\practice\VirtualBookshop)
+2024-05-08 12:53:58 [main] DEBUG i.c.g.v.VirtualBookshopApplication - Running with Spring Boot v3.2.4, Spring v6.1.5
+2024-05-08 12:53:58 [main] INFO  i.c.g.v.VirtualBookshopApplication - No active profile set, falling back to 1 default profile: "default"
+2024-05-10 13:01:16 [main] INFO  i.c.g.v.VirtualBookshopApplication - Starting VirtualBookshopApplication using Java 18.0.1.1 with PID 17312 (D:\practice\VirtualBookshop\bin\main started by PIT0504 in D:\practice\VirtualBookshop)
+2024-05-10 13:01:16 [main] DEBUG i.c.g.v.VirtualBookshopApplication - Running with Spring Boot v3.2.4, Spring v6.1.5
+2024-05-10 13:01:16 [main] INFO  i.c.g.v.VirtualBookshopApplication - No active profile set, falling back to 1 default profile: "default"
+2024-05-14 17:43:24 [main] INFO  i.c.g.v.VirtualBookshopApplication - Starting VirtualBookshopApplication using Java 18.0.1.1 with PID 13996 (D:\practice\VirtualBookshop\bin\main started by PIT0504 in D:\practice\VirtualBookshop)
+2024-05-14 17:43:24 [main] DEBUG i.c.g.v.VirtualBookshopApplication - Running with Spring Boot v3.2.4, Spring v6.1.5
+2024-05-14 17:43:24 [main] INFO  i.c.g.v.VirtualBookshopApplication - No active profile set, falling back to 1 default profile: "default"
+2024-05-14 18:15:49 [main] INFO  i.c.g.v.VirtualBookshopApplication - Starting VirtualBookshopApplication using Java 18.0.1.1 with PID 4728 (D:\practice\VirtualBookshop\bin\main started by PIT0504 in D:\practice\VirtualBookshop)
+2024-05-14 18:15:49 [main] DEBUG i.c.g.v.VirtualBookshopApplication - Running with Spring Boot v3.2.4, Spring v6.1.5
+2024-05-14 18:15:49 [main] INFO  i.c.g.v.VirtualBookshopApplication - No active profile set, falling back to 1 default profile: "default"
+2024-05-14 18:18:48 [main] INFO  i.c.g.v.VirtualBookshopApplication - Starting VirtualBookshopApplication using Java 18.0.1.1 with PID 15796 (D:\practice\VirtualBookshop\bin\main started by PIT0504 in D:\practice\VirtualBookshop)
+2024-05-14 18:18:48 [main] DEBUG i.c.g.v.VirtualBookshopApplication - Running with Spring Boot v3.2.4, Spring v6.1.5
+2024-05-14 18:18:48 [main] INFO  i.c.g.v.VirtualBookshopApplication - No active profile set, falling back to 1 default profile: "default"
+2024-05-16 16:47:46 [main] INFO  i.c.g.v.VirtualBookshopApplication - Starting VirtualBookshopApplication using Java 18.0.1.1 with PID 16464 (D:\practice\VirtualBookshop\bin\main started by PIT0504 in D:\practice\VirtualBookshop)
+2024-05-16 16:47:46 [main] DEBUG i.c.g.v.VirtualBookshopApplication - Running with Spring Boot v3.2.4, Spring v6.1.5
+2024-05-16 16:47:46 [main] INFO  i.c.g.v.VirtualBookshopApplication - No active profile set, falling back to 1 default profile: "default"
+2024-05-16 16:55:23 [main] INFO  i.c.g.v.VirtualBookshopApplication - Starting VirtualBookshopApplication using Java 18.0.1.1 with PID 21592 (D:\practice\VirtualBookshop\bin\main started by PIT0504 in D:\practice\VirtualBookshop)
+2024-05-16 16:55:23 [main] DEBUG i.c.g.v.VirtualBookshopApplication - Running with Spring Boot v3.2.4, Spring v6.1.5
+2024-05-16 16:55:23 [main] INFO  i.c.g.v.VirtualBookshopApplication - No active profile set, falling back to 1 default profile: "default"
+2024-05-16 17:05:37 [main] INFO  i.c.g.v.VirtualBookshopApplication - Starting VirtualBookshopApplication using Java 18.0.1.1 with PID 11584 (D:\practice\VirtualBookshop\bin\main started by PIT0504 in D:\practice\VirtualBookshop)
+2024-05-16 17:05:37 [main] DEBUG i.c.g.v.VirtualBookshopApplication - Running with Spring Boot v3.2.4, Spring v6.1.5
+2024-05-16 17:05:37 [main] INFO  i.c.g.v.VirtualBookshopApplication - No active profile set, falling back to 1 default profile: "default"
+2024-05-16 17:27:47 [main] INFO  i.c.g.v.VirtualBookshopApplication - Starting VirtualBookshopApplication using Java 18.0.1.1 with PID 21068 (D:\practice\VirtualBookshop\bin\main started by PIT0504 in D:\practice\VirtualBookshop)
+2024-05-16 17:27:47 [main] DEBUG i.c.g.v.VirtualBookshopApplication - Running with Spring Boot v3.2.4, Spring v6.1.5
+2024-05-16 17:27:47 [main] INFO  i.c.g.v.VirtualBookshopApplication - No active profile set, falling back to 1 default profile: "default"
+2024-05-17 15:01:45 [main] INFO  i.c.g.v.VirtualBookshopApplication - Starting VirtualBookshopApplication using Java 18.0.1.1 with PID 5712 (D:\practice\VirtualBookshop\bin\main started by PIT0504 in D:\practice\VirtualBookshop)
+2024-05-17 15:01:45 [main] DEBUG i.c.g.v.VirtualBookshopApplication - Running with Spring Boot v3.2.4, Spring v6.1.5
+2024-05-17 15:01:45 [main] INFO  i.c.g.v.VirtualBookshopApplication - No active profile set, falling back to 1 default profile: "default"
