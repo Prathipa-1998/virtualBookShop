@@ -5,6 +5,6 @@ import org.springframework.data.jpa.repository.JpaRepository;
 import in.co.gradle.virtualBook.model.CandidateDetails;
 
 
-public interface CandidateDetailsRepository extends JpaRepository<CandidateDetails,Long> {
+public interface CandidateDetailsRepository extends JpaRepository<CandidateDetails,Integer> {
 
 }
